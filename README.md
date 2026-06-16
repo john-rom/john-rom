@@ -50,12 +50,15 @@ Local, privacy-first voice activation for Thread-based lighting control.
 
 **Repo:** [embr](https://github.com/john-rom/embr)
 
-### ++ harth — CoAP to Matter cluster command translator and bridge
-Companion node for translating CoAP commands over Thread and coordinating Matter device behavior across a local mesh.
+### ++ Blackline/SW — Route and approach engine for constrained environments
+Portable C/C++ reference software backend for obstacle-aware target selection, terrain validation, and path-planning.
 
-- Cornerstone of a modular, Edge AI-powered home intelligence system
-- Clear interfaces and predictable behavior
-- Built to be easy to extend as the system grows
+- Terrain lookup and validation with explicit bounds/error handling
+- C-compatible core API with C++ unit tests
+- Foundation for future route scoring, grid traversal, queues, and path search
+- Designed to grow toward firmware, FPGA, and simulation backends
+
+**Repo:** [blackline-sw](https://github.com/john-rom/blackline-sw)
 
 ---
 
