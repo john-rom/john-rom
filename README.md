@@ -26,7 +26,7 @@ measurable, and built for real-world constraints.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Nordic" width="30px" style="padding-right:10px;" src="https://companieslogo.com/img/orig/NOD.OL-cab5b4b7.png?t=1720244493" />
 <img align="left" alt="Zephyr" width="30px" style="padding-right:10px;" src="https://www.zephyrproject.org/wp-content/uploads/2025/07/zephyr_logo_r_color_positive_-minimum.svg" />
-<img align="left" alt="Edge Impulse" width="30px" style="padding-right:10px;" src="https://cdn.brandfetch.io/idRZOXZyz4/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1763704745579" />
+<img align="left" alt="Edge Impulse" width="30px" style="padding-right:10px;" src="https://github.com/edgeimpulse/edge-impulse-cli/blob/master/public/assets/mark.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="CMake" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
